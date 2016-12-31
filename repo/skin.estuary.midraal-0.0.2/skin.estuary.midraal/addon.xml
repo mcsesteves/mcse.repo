@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.estuary.midraal" version="0.6.2" name="Estuary: Midraal Mod" provider-name="midraal">
+	<requires>
+		<import addon="xbmc.gui" version="5.11.0"/>
+		<import addon="script.skinshortcuts" version="0.6.6"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="1080i" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Estuary skin Modded by Midraal (original skin by phil65 and Piers).</summary>
+		<platform>all</platform>
+		<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+	</extension>
+</addon>
